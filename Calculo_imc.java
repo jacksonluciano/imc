@@ -30,4 +30,5 @@ public class Calculo_IMC
  imc2 = calcularIMC(peso2,altura2);
  
 
+ }
 }
